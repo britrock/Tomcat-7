@@ -1,2 +1,2 @@
-# tomcat-7
-tomcat-7 source from apache tomcat for study.
+# Tomcat-7
+Tomcat-7 source code from apache tomcat 7 for study.
